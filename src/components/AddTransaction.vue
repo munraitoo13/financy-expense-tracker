@@ -8,7 +8,7 @@
       </div>
       <div class="form-entry">
         <label for="amount">amount <small>(-value or +value)</small></label>
-        <input type="number" v-model="amount" />
+        <input type="number" step="0.01" v-model="amount" />
       </div>
       <button>add</button>
     </form>
