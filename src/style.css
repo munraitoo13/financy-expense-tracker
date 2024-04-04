@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Fira Code;
+  text-decoration: none;
+  color: #222831;
+  overflow-wrap: break-word;
+}
+body {
+  background-color: #eeeeee;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#app {
+  width: 50%;
+}
+hr {
+  opacity: 0.05;
+  width: 75%;
+  margin: auto;
+}
