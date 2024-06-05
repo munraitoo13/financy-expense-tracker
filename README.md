@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Financy</h1>
+  <h1>financy</h1>
   <p>
     With <b>financy</b>, a lightweight expense tracker, you can keep things beautiful, basic and useful. Perfect for personal budgeting on the go, financy utilizes localStorage for persistent data storage, which keeps your data when you come back to it.
   </p>
